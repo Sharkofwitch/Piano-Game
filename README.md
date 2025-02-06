@@ -1,4 +1,4 @@
-# Piano Tiles Game
+# Piano Game
 
 ## Beschreibung
 
@@ -20,7 +20,7 @@ Das Spiel wurde mit HTML5, CSS und JavaScript erstellt und kann einfach in einem
    Um das Projekt lokal auszuführen, klone dieses Repository auf deinen Computer:
 
    ```bash
-   git clone https://github.com/dein-benutzername/piano-tiles.git
+   git clone https://github.com/Sharkofwitch/Piano-Game.git
    cd piano-tiles
    ```
 
